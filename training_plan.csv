@@ -1,0 +1,8 @@
+Week,Day,Workout,Duration,Distance,Details,Intensity,Equipment,Description,Notes
+2,1,Swim,30 min,1500m,4 sets of 375m, Moderate,Fins,Work on stroke efficiency,Focus on form
+2,2,Bike,60 min,20 km,Easy ride, Low,None,Recovery ride,Keep RPM above 90
+2,3,Run,30 min,6 km,Steady-state run, Moderate,None,Maintain even pace,Check HR zones
+2,4,Rest,0,0,Rest day, Low,None,Rest and recover,Hydrate and stretch
+2,5,Bike + Run,90 min,35 km + 6 km,45 min bike + 45 min run, High,None,Brick workout,Transition quickly
+2,6,Swim + Strength,60 min,1500m + NA,30 min swim + 30 min gym, Moderate,Resistance bands,Mixed workout,Focus on core strength
+2,7,Rest,0,0,Rest day, Low,None,Rest and recover,Hydrate and stretch
